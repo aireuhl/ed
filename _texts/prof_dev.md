@@ -1,9 +1,8 @@
 ---
 layout: narrative
+title: "Professional Development Statement"
+author: Ariel Hahn
+rights: Ariel Hahn
+source: Project Guttenberg
+publication-date: 2019
 ---
-
-<div class="narrative">
-  <h1 class="text-title">{{ page.title }}</h1>
-  <p class="citation"> by {{ page.author }}</p>
-  {{ content }}
-</div>

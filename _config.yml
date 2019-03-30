@@ -1,20 +1,20 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               ariel hahn
+title:               
 tagline:             
-description:         ariel hahn is a 2019 mlis candidate at UCLA
+description:         
 url:                 'http://aireuhl.github.io'
 baseurl:             '/portfolio'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              ariel hahn 
+  url:               https://twitter.com/aireuhl
+  email:             arielhahn@ucla.edu
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: blue
+color-scheme: cyan
 
 # Permalinks
 permalink: pretty

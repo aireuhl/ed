@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: narrative
 title: "Complete List of Courses"
 publication-date: 2019
 ---

@@ -3,9 +3,13 @@ layout: page
 title: About
 ---
 
-One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
+Ariel Hahn is a graduate student in the School of Education & Information Studies at University of California, Los Angeles and an alumnae of Mount Holyoke College.
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' in one academic semester, allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle!
+I'm interested in projects about time, history, power, and new technologies. I like to think about analog media, ethical/queer futures, and the transformative possibilities of digital tools. Currently, I work at the UCLA Digital Library supporting their International Digital Ephemera Project.
+
+My additional professional experience as a creative consultant and producer ranges from film and audio production to grant writing, web design, research, and archiving for artists, writers, publishers, and non-profits. 
+
+In the year prior to graduate school, I secured $175,000 in grants and tax credits for a New York-based neon art manufacturer, Lite Brite Neon; produced NO: an experimental audio mini-season about sexual consent with Peabody-nominated podcast, the Heart; and conducted extensive research for Academy-award nominated filmmaker Sam Green's current documentary A Thousand Thoughts about the Kronos Quartet. 
 
 
 ## Sample Ed editions.

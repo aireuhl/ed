@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: CV
 ---
 
 Ariel Hahn is a graduate student in the School of Education & Information Studies at University of California, Los Angeles and an alumnae of Mount Holyoke College.

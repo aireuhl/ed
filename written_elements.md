@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Written Elements
 author: Alex Gil
 ---
 
@@ -12,7 +12,7 @@ author: Alex Gil
 
 ---
 
-## Prerequisites
+## Major Paper 
 
 This documentation was built with beginners in mind, but has the necessary information for more seasoned producers.
 
@@ -22,7 +22,7 @@ Jekyll does not run very well on Windows machines for now. If you are using Wind
 
 ---
 
-## Installing Ed: Easy
+## Issue Paper 
 
 The easy way to do this is not necessarily the more robust, and may simply not work on your system. The easy way could also be called the 'lucky' way. It will work if your system is ready for Ed. Two major caveats to keep in mind if you go the easy route: a) You may run into problems later when some Ed components need updating; and, b) You may run into conflicts if you run several Ruby environments for different projects. That said, if you just want to quickly try Ed, and you don't run into problems installing, this is perhaps the best approach.
 
@@ -48,7 +48,7 @@ If at any point during this process you had an error you could not resolve, move
 
 ---
 
-## Installing Ed: Robust
+## Paper from a Core Class
 
 The first step to install Ed is to download the source files from GitHub. To do so you must have git installed on your computer. You probably have git already, but if you don't, the easiest way is probably to install [Github Desktop](https://desktop.github.com/) (even though we will be using git and github from the terminal in this tutorial). Mac users may want to ensure they have [Xcode](https://developer.apple.com/xcode/) and its command line tools installed as well. To check if git is running on your system enter the following line on your terminal (remember to ignore the $):
 

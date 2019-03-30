@@ -1,6 +1,9 @@
-COMPLETE LIST OF COURSES
+---
+layout: pages
+title: "Complete List of Courses"
+publication-date: 2019
+---
 
-FALL 2017
 ## FALL 2017
 - IS 211 Artifacts and Cultures with Prof. Johanna Drucker
 - IS 260 Description and Access with Prof. Jonathan Furner

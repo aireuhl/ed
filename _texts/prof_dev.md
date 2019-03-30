@@ -3,7 +3,7 @@ layout: narrative
 title: "Professional Development Statement"
 author: Ariel Hahn
 rights: Ariel Hahn
-source: Project Guttenberg
+source: 
 publication-date: 2019
 ---
 Prior to pursuing this degree, I was at a professional crossroads. After graduating from Mount Holyoke College in 2010 with a degree in film studies, I worked across multiple creative industries gaining skills as a researcher, project manager, audio and video producer, web designer, writer, and editor. Though I was often intellectually and artistically challenged through these opportunities, my work consistently centered around facilitating the creative projects of others. I desired more structure, more community connection, more autonomy, and more focus in my practice. As my professional opportunities began to involve more historical research and archival coordination, I realized that a graduate degree in library and information science could offer a more fulfilling and meaningful path forward. 

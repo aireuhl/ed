@@ -12,16 +12,25 @@ author: Ariel Hahn
 ---
 
 ## Issue Paper
-Precarious Labor in the Public Library 
+Precarious Labor in the Public Library: Asserting Trauma, Exploring Collective Healing
+
+50 word statement 
+
+A full-text PDF can be found here. 
 
 ---
 
 ## Major Paper 
+Our Digital Records / Our Physical Deaths: Investigating Chechnya’s Anti-Gay Purge and the Future of Personal Archiving
+
+A full-text PDF can be found here. 
 
 ---
 
 ## Core Course Paper  
 Beyond Neutrality: Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis
+
+A full-text PDF can be found here. 
 
 ---
 

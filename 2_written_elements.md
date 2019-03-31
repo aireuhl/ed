@@ -4,7 +4,6 @@ title: Written Elements
 author: Ariel Hahn
 ---
 
-## Contents
 {:.no_toc}
 
 * ToC
@@ -355,9 +354,4 @@ baseurl: ''
 
 ---
 
-That should do it. If you have suggestions on how to improve Ed, make sure to leave us a line on [our issues page](https://github.com/minicomp/ed/issues), or send us a pull request.
 
-Happy editing!
-
-Alex Gil  
-April 2016

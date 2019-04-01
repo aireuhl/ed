@@ -5,12 +5,17 @@ title: CV
 
 ## Education 
 <b>University of California, Los Angeles</b>
-<br>Masters Degree in Library and Information Science
-<br>Graduate Certificate in Digital Humanities
+<br><i>Masters Degree in Library and Information Science</i>
+<br><i>Graduate Certificate in Digital Humanities</i>
 <br>Expected June 2019
 
-<b>Oral History Summer School</b> | <i>Oral History and Documentary Film Course</i> | Summer 2013
-<b>Mount Holyoke College</b> | <i>Bachelors Degree in Film Studies, with Honors</i> | May 2010 
+<b>Oral History Summer School</b>
+<br><i>Oral History and Documentary Film Course</i>
+<br>Summer 2013
+
+<b>Mount Holyoke College</b>
+<br><i>Bachelors Degree in Film Studies, with Honors</i>
+<br>May 2010
 
 ## Relevant Employment History
 

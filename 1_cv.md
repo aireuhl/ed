@@ -3,18 +3,18 @@ layout: page
 title: CV
 ---
 
-<h2>Education</h2>
+## Education
 <b>University of California, Los Angeles</b>
-<br><i>Masters Degree in Library and Information Science</i>
-<br><i>Graduate Certificate in Digital Humanities</i>
+<br>Masters Degree in Library and Information Science
+<br>Graduate Certificate in Digital Humanities
 <br>Expected June 2019
 
 <b>Oral History Summer School</b>
-<br><i>Oral History and Documentary Film Course</i>
+<br>Oral History and Documentary Film Course
 <br>Summer 2013
 
 <b>Mount Holyoke College</b>
-<br><i>Bachelors Degree in Film Studies, with Honors</i>
+<br>Bachelors Degree in Film Studies, with Honors
 <br>May 2010
 
 ## Relevant Employment History
@@ -23,15 +23,20 @@ title: CV
 ## Relevant Professional Experience
 
 ## Screenings, Conferences, & Public Speaking
-- Processing Community Day | README’s My Face Is My Own! : Helping Kids Beat Facial Recognition Software
-  Interactive Session, Presentation, Zine | Los Angeles, CA – 2019
+<b>Processing Community Day</b>
+<br><i>README’s My Face Is My Own! : Helping Kids Beat Facial Recognition Software</i>
+<br>Interactive Session, Presentation, Zine ~ Los Angeles, CA ~ 2019
+
+<b>Visions of Justice & Liberation Symposium @ UCLA</b>
+<br><i>README’s “A Brief Guide to Your Technological Liberation”</i>
+<br>Poster Presentation & Collaborative Zine ~ Los Angeles, CA ~ 2018  
 
 ## Skills 
-- Research: Primary, secondary, and digital methods 
-- Writing: Interviewing, writing, editing, and proofreading
-- Design & Media Production: Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
-- Web Production & Further Technical Skills: Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
-- Operations: Quickbooks, grantwriting, event planning, project management.
+Research ~ Primary, secondary, and digital methods 
+<br>Writing ~ Interviewing, writing, editing, and proofreading
+<br>Design & Media Production ~ Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
+<br>Web Production & Further Technical Skills ~ Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
+<br>Operations ~ Quickbooks, grantwriting, event planning, project management.
 
 ## Honors & Awards
 - Research & Inquiry Conference | Participatory Session Award | 2018

@@ -8,43 +8,44 @@ title: Complete List of Courses
 - IS 211 Artifacts and Cultures with Prof. Johanna Drucker
 - IS 260 Description and Access with Prof. Jonathan Furner
 - IS 432 Archives, Records, Memory with Prof. Anne Gilliland
-- COMM 375 Teaching Apprentice Practicum
+- COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication 
 
 ## WINTER 2018
 - IS 270 Systems and Infrastructure with Prof. Miriam Posner 
 - IS 272 Human-Computer Interaction with Prof. Leah Lievrouw 
 - IS 480 Intro to Media Archiving and Preservation with Snowden Becker
-- COMM 375 Teaching Apprentice Practicum
+- COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication
 
 ## SPRING 2018
 - IS 212 Values and Communities with Prof. Ramesh Srinivasan 
-- IS 213 Current Issues in Librarianship: Libraries and their Social Role(s) with Prof. Sarah Roberts
+- IS 213 Current Issues in Librarianship: Libraries and their Social Role(s) with Prof. Sarah T. Roberts
 - IS 433 Community-Based Archiving with Prof. Michelle Caswell 
-- COMM 375 Teaching Apprentice Practicum
+- COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication
 
 ## FALL 2018
 - CLASSIC 245 Computing and Classics with Prof. Christopher Johanson
 - IS 289 Digital Methods for Research and Scholarship with Prof. Johanna Drucker
 - IS 289 Sound Technologies and Society with Prof. Shawn Vancour
 - IS 498 Internship: Southern California Library
-- WL ARTS 375 Teaching Apprentice Practicum
+- WL ARTS 375 Teaching Apprentice Practicum for WL ARTS 51: Aliens, Psychics, Ghosts
 - WL ARTS 495 Teaching Assistant Seminar
 
 ## WINTER 2019
 - WL ARTS CM240 Healing, Ritual, Transformation with Prof. David Shorter
 - IS 288 Research Apprenticeship Seminar with Prof. Christopher Kelty
-- IS 461 Descriptive Cataloging with Luis Mendes
+- IS 461 Descriptive Cataloging with Luiz Mendes
 - IS 497 Fieldwork: Women’s Center for Creative Work / Feminist Library on Wheels 
-- COM LIT 375 Teaching Apprentice Practicum
+- COM LIT 375 Teaching Apprentice Practicum for COM LIT 2AW: Survey of Literature: Antiquity to Middle Ages
 
-## SPRING 2019 (in process) 
-- IS SUBJECT CATALOGING with Luis Mendes
-- IS METADATA with Prof. Jonathan Furner 
-* DH CAPSTONE
-* RESEARCH SEMINAR
+## SPRING 2019
+- IS 462 Subject Cataloging and Classification with Luiz Mendes
+- IS 464 Metadata with Prof. Jonathan Furner 
+- <b>DH CAPSTONE</b>
 - IS 497 Fieldwork: Women’s Center for Creative Work / Feminist Library on Wheels 
-- COM LIT 375 Teaching Apprentice Practicum
+- COM LIT 375 Teaching Apprentice Practicum for COM LIT 2CW: In Other Worlds: Enlightenment to 20th Century
 
 ## ADDITIONAL COURSES AUDITED
 - IS 289 Theory and Politics of Collecting with Prof. Shawn Vancour (WINTER 2018)
 - IS 438B Archival Description and Access with Prof. Kathy Carbone (WINTER 2019) 
+- M155 Angels, Demons, and End of World: Magic, Mysticism, and Apocalypse in Jewish Traditions (SPRING 2019) 
+- C170A Museum Studies (SPRING 2019) 

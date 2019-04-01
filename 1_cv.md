@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-## Education 
+<h2>Education</h2>
 <b>University of California, Los Angeles</b>
 <br><i>Masters Degree in Library and Information Science</i>
 <br><i>Graduate Certificate in Digital Humanities</i>

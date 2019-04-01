@@ -25,23 +25,42 @@ title: CV
 ## Screenings, Conferences, & Public Speaking
 <b>Processing Community Day</b>
 <br><i>README’s My Face Is My Own! : Helping Kids Beat Facial Recognition Software</i>
-<br>Interactive Session, Presentation, Zine ~ Los Angeles, CA ~ 2019
+<br>Session Organizer, Presenter, Zine Co-Creator ~ Los Angeles, CA ~ 2019
 
 <b>Visions of Justice & Liberation Symposium @ UCLA</b>
 <br><i>README’s “A Brief Guide to Your Technological Liberation”</i>
-<br>Poster Presentation & Collaborative Zine ~ Los Angeles, CA ~ 2018  
+<br>Poster Presenter & Zine Co-Creator ~ Los Angeles, CA ~ 2018  
+
+<b>Research & Inquiry Conference @ UCLA</b>
+<br><i>How Do You Know?: Self-Interogation & The Root(s) of Queerness</i>
+<br> Session Organizer & Panel Presenter
+
+<b>Two Thirty Gallery</b>
+<br><i>“Girls Beware” (3 min, digital video, 2014)</i>
+
+<b>Bruce High Quality Foundation Bruccenial</b>
+<br><i>“Girls Beware” (3 min, digital video, 2014)</i>
+
+<b>Adept-8 Film Festival</b>
+<br><i>“Leipzig” (2 min, Super 8mm, 2011)</i>
+
 
 ## Skills 
-Research ~ Primary, secondary, and digital methods 
-<br>Writing ~ Interviewing, writing, editing, and proofreading
-<br>Design & Media Production ~ Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
-<br>Web Production & Further Technical Skills ~ Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
-<br>Operations ~ Quickbooks, grantwriting, event planning, project management.
+<b>Research</b> ~ Primary, secondary, and digital methods 
+<br><b>Writing</b> ~ Interviewing, writing, editing, and proofreading
+<br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
+<br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
+<br><b>Operations</b> ~ Quickbooks, grantwriting, event planning, project management.
 
 ## Honors & Awards
-- Research & Inquiry Conference | Participatory Session Award | 2018
-- Mount Holyoke College | Edward Allen Wilson Scholarship Award | 2008 & 2009
-- Five College Film Festival | Best of Mount Holyoke Award | 2008 
+<b>Research & Inquiry Conference</b> 
+<br>Participatory Session Award ~ 2018
+
+<b>Mount Holyoke College </b>
+<br> Edward Allen Wilson Scholarship Award ~ 2008 & 2009
+
+<b>Five College Film Festival </b>
+<br>Best of Mount Holyoke Award ~ 2008 
 
 ## Volunteer Experience
 - Processing Community Day | Zine Library and General Event Support | 2018 to 2019

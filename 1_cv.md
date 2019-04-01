@@ -3,40 +3,33 @@ layout: page
 title: CV
 ---
 
-Ariel Hahn is a graduate student in the School of Education & Information Studies at University of California, Los Angeles and an alumnae of Mount Holyoke College.
+## Education 
+- University of California, Los Angeles | <i>Masters Degree in Library and Information Science</i> | Expected June 2019
+- Oral History Summer School | <i>Oral History and Documentary Film Course</i> | Summer 2013
+- Mount Holyoke College | <i>Bachelors Degree in Film Studies, with Honors</i> | May 2010 
 
-I'm interested in projects about time, history, power, and new technologies. I like to think about analog media, ethical/queer futures, and the transformative possibilities of digital tools. Currently, I work at the UCLA Digital Library supporting their International Digital Ephemera Project.
-
-My additional professional experience as a creative consultant and producer ranges from film and audio production to grant writing, web design, research, and archiving for artists, writers, publishers, and non-profits. 
-
-In the year prior to graduate school, I secured $175,000 in grants and tax credits for a New York-based neon art manufacturer, Lite Brite Neon; produced NO: an experimental audio mini-season about sexual consent with Peabody-nominated podcast, the Heart; and conducted extensive research for Academy-award nominated filmmaker Sam Green's current documentary A Thousand Thoughts about the Kronos Quartet. 
-
-
-## Sample Ed editions.
-
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
+## Relevant Employment History
 
 
+## Relevant Professional Experience
 
-## Current Features
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwitdh scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
+## Screenings, Conferences, & Public Speaking
+- Processing Community Day | README’s My Face Is My Own! : Helping Kids Beat Facial Recognition Software
+  Interactive Session, Presentation, Zine | Los Angeles, CA – 2019
 
+## Skills 
+- Research: Primary, secondary, and digital methods 
+- Writing: Interviewing, writing, editing, and proofreading
+- Design & Media Production: Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
+- Web Production & Further Technical Skills: Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
+- Operations: Quickbooks, grantwriting, event planning, project management.
 
-## Installing and using Ed
+## Honors & Awards
+- Research & Inquiry Conference | Participatory Session Award | 2018
+- Mount Holyoke College | Edward Allen Wilson Scholarship Award | 2008 & 2009
+- Five College Film Festival | Best of Mount Holyoke Award | 2008 
 
-To learn how to install and begin using Ed, please visit our [documentation page](http://minicomp.github.io/ed/documentation/).
+## Volunteer Experience
+- Processing Community Day | Zine Library and General Event Support | 2018 to 2019
+- Alumnae Association of Mount Holyoke College | Class of 2010 Vice President | 2015 to Present
+- Alumnae Association of Mount Holyoke College | Class of 2010 Reunions Chair | 2012 to 2015

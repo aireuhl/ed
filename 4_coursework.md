@@ -1,7 +1,7 @@
-
 ---
 layout: page
 title: Complete List of Courses
+
 ---
 
 ## FALL 2017

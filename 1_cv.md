@@ -18,11 +18,37 @@ title: CV
 <br>May 2010
 
 ## Relevant Employment History
-
+<b>University of California, Los Angeles</b> ~ Los Angeles, CA
+<br><i>Teaching Associate, Writing II: In Other Worlds: Enlightenment to 20th Century</i> ~ Spring 2019
+<br><i>Teaching Associate, Writing II: Survey of Literature: Antiquity to Middle Ages</i> ~ Winter 2019
+<br><i>Teaching Associate, Writing II: Aliens, Psychics, Ghosts</i> ~ Fall 2018
+<br><i>Teaching Assistant, Introduction to Communication Studies</i> ~ Academic Year 2017-2018
 
 ## Relevant Professional Experience
+<b>Archival Management and Preservation Coordination</b>
+- At NPR, coordinated a permanent exhibit about the history of radio storytelling, requiring extensive research and liaison duties with the University of Maryland Archives. Utilized editing skills to produce exhibition audio. Managed audio element timelines.
+- Coordinated the digital transfer and preservation of Sarah Jacobson’s video archive—an effort between the Free History Project, NYU Fales Library, and Bay Area Video Coalition—providing access to her previously unknown Pixelvision videos.
+- Worked with the Jack Tworkov archive, as a consultant, to process the personal letters of Janice Biala prior to their donation.
+- Created user-friendly accession documents and an archival processing timeline for the Southern California Library.
+
+<b>Content Creation and Technical Production</b>
+- Conducted research and interviews, cut audio, managed grants, and provided editoral support for Peabody-nominated podcast, The Heart. NO, an intimate exploration of sexual consent/power, aired to hundreds of thousands of listeners spring ‘17.
+- Managed and created content with little to no oversight—including blog posts, interviews, interactive quizzes, news copy, social media, promotional materials, newsletters, screenings, and lectures—for Capricious, NPR, and Discovery.
+- Built and designed Capricious’ website. Migrated content to a new CMS. Oversaw all technological needs and content goals.
+
+<b>Teaching and Training</b>
+- Lead discussions, write lesson plans, hold of office hours, strategize writing exercises, and grade for UCLA undergraduates.
+- Trained and supported numerous colleagues, interns, and clients on technical programs, operational systems, and general project knowledge at NPR, Capricious Publishing, Discovery, and as an independent producer and creative consultant.
 
 ## Screenings, Conferences, & Public Speaking
+<b>Hammer Museum Arts Party</b>
+<i>Am I Already an Archive? : Sorting Through Digital Trash with README</i>
+<br>Workshop Facilitator ~ Los Angeles, CA ~ 2019 
+
+<b>README @ UCLA Presents...</b>
+<i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i>
+<br>Event Organizer & Workshop Facilitator ~ Los Angeles, CA ~ 2019 
+
 <b>Processing Community Day</b>
 <br><i>README’s My Face Is My Own! : Helping Kids Beat Facial Recognition Software</i>
 <br>Session Organizer, Presenter, Zine Co-Creator ~ Los Angeles, CA ~ 2019
@@ -33,17 +59,19 @@ title: CV
 
 <b>Research & Inquiry Conference @ UCLA</b>
 <br><i>How Do You Know?: Self-Interogation & The Root(s) of Queerness</i>
-<br> Session Organizer & Panel Presenter
+<br> Session Organizer & Panel Presenter ~ Los Angeles, CA ~ 2018
 
 <b>Two Thirty Gallery</b>
 <br><i>“Girls Beware” (3 min, digital video, 2014)</i>
+<br> Film Screening ~ New York, NY ~ 2014
 
 <b>Bruce High Quality Foundation Bruccenial</b>
 <br><i>“Girls Beware” (3 min, digital video, 2014)</i>
+<br> Film Screening ~ New York, NY ~ 2014
 
 <b>Adept-8 Film Festival</b>
 <br><i>“Leipzig” (2 min, Super 8mm, 2011)</i>
-
+<br> Film Screening ~ Milwaukee, WI ~ 2011
 
 ## Skills 
 <b>Research</b> ~ Primary, secondary, and digital methods 
@@ -63,6 +91,11 @@ title: CV
 <br>Best of Mount Holyoke Award ~ 2008 
 
 ## Volunteer Experience
-- Processing Community Day | Zine Library and General Event Support | 2018 to 2019
-- Alumnae Association of Mount Holyoke College | Class of 2010 Vice President | 2015 to Present
-- Alumnae Association of Mount Holyoke College | Class of 2010 Reunions Chair | 2012 to 2015
+<b>Processing Community Day</b> 
+<br>Zine Library and General Event Support ~ 2018 to 2019
+
+<b>Alumnae Association of Mount Holyoke College</b>
+<br> Class of 2010 Vice President ~ 2015 to Present
+
+<b>Alumnae Association of Mount Holyoke College</b>
+<br>Class of 2010 Reunions Chair ~ 2012 to 2015

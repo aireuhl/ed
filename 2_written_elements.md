@@ -21,16 +21,18 @@ A full-text PDF can be found here.
 ---
 
 ## Major Paper 
-Our Digital Records / Our Physical Deaths: Investigating Chechnya’s Anti-Gay Purge and the Future of Personal Archiving
+<i>Our Digital Records / Our Physical Deaths: Investigating Chechnya’s Anti-Gay Purge and the Future of Personal Archiving</i>
+
 
 A full-text PDF can be found here. 
 
 ---
 
 ## Core Course Paper  
-Beyond Neutrality: Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis
+<i>Beyond Neutrality: Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</i>
+<br> Written for my final core class in the program, Values and Communities, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field's professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics. 
 
-A full-text PDF can be found here. 
+A full-text PDF of the essay can be downloaded here.  
 
 ---
 

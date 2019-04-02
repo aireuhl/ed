@@ -42,11 +42,11 @@ title: CV
 
 ## Screenings, Conferences, & Public Speaking
 <b>Hammer Museum Arts Party</b>
-<i>Am I Already an Archive? : Sorting Through Digital Trash with README</i>
+<br><i>Am I Already an Archive? : Sorting Through Digital Trash with README</i>
 <br>Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
 <b>README @ UCLA Presents...</b>
-<i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i>
+<br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i>
 <br>Event Organizer & Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
 <b>Processing Community Day</b>

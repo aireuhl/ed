@@ -25,5 +25,9 @@ $text-color: #000000;
 $heading-color: #0077b3;
 $link-color: #0077b3;
 
+#grad {
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+
 @import "ed";
 @import "syntax";

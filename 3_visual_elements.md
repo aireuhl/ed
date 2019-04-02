@@ -13,6 +13,8 @@ author: Ariel Hahn
 ---
 
 ## Grecian Bust
+<img src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" alt="bust">
+<img src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" alt="bust flat>
 
 ## River Tiber
 

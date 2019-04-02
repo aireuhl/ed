@@ -17,7 +17,6 @@ author:
 color-scheme: blue
 
 # Permalinks
-permalink: {{ site.baseurl }}{{ post.url }}
 permalink: pretty
 permalink: /:title/
 

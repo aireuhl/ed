@@ -12,27 +12,27 @@ author: Ariel Hahn
 ---
 
 ## Issue Paper
-Precarious Labor in the Public Library: Asserting Trauma, Exploring Collective Healing
+<i>Precarious Labor in the Public Library: Asserting Trauma, Exploring Collective Healing</i>
 
 50 word statement 
 
-A full-text PDF can be found here. 
+A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
 ---
 
 ## Major Paper 
 <i>Our Digital Records / Our Physical Deaths: Investigating Chechnya’s Anti-Gay Purge and the Future of Personal Archiving</i>
 
-
-A full-text PDF can be found here. 
+A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
 ---
 
 ## Core Course Paper  
 <i>Beyond Neutrality: Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</i>
-<br> Written for my final core class in the program, Values and Communities, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field's professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics. 
 
-A full-text PDF of the essay can be downloaded here.  
+Written for my final core class in the program, Values and Communities, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field's professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
+
+A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
 ---
 

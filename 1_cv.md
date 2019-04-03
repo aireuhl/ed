@@ -41,11 +41,11 @@ title: CV
 - Trained and supported numerous colleagues, interns, and clients on technical programs, operational systems, and general project knowledge at NPR, Capricious Publishing, Discovery, and as an independent producer and creative consultant.
 
 ## Screenings, Conferences, & Public Speaking
-<b>Hammer Museum Arts Party</b>
+<b>UCLA Arts Party @ Hammer Museum</b>
 <br><i>Am I Already an Archive? : Sorting Through Digital Trash with README</i>
 <br>Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
-<b>README @ UCLA Presents...</b>
+<b>README @ UCLA and LA Cryptoparty Present...</b>
 <br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i>
 <br>Event Organizer & Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 

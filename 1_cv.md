@@ -19,7 +19,7 @@ title: CV
 
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
-<br><i>Teaching Associate, Writing II: In Other Worlds: Enlightenment to 20th Century</i> ~ Spring 2019
+<br><i><h3>Teaching Associate, Writing II: In Other Worlds: Enlightenment to 20th Century/h3></i> ~ Spring 2019
 <br><i>Teaching Associate, Writing II: Survey of Literature: Antiquity to Middle Ages</i> ~ Winter 2019
 <br><i>Teaching Associate, Writing II: Aliens, Psychics, Ghosts</i> ~ Fall 2018
 <br><i>Teaching Assistant, Introduction to Communication Studies</i> ~ Academic Year 2017-2018

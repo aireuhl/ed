@@ -11,10 +11,15 @@ author: Ariel Hahn
 
 ---
 
-## Issue Paper
-<i><b>Precarious Labor in the Public Library: Asserting Trauma, Exploring Collective Healing</b></i>
+## 50 Word Statement
 
-50 word statement 
+## Issue Paper
+<i><b>A Collective Effort: 
+<br>Healing, Trauma, and Precarity in Public Librarianship 
+</b></i>
+<br>Spring 2019
+
+This essay was adapted from a final course paper written for Professor David Shorter’s “Healing, Ritual, and Transformation” in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
 
 A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 

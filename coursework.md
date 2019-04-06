@@ -40,6 +40,7 @@ title: Complete List of Courses
 ## SPRING 2019
 - IS 462 Subject Cataloging and Classification with Luiz Mendes
 - IS 464 Metadata with Prof. Jonathan Furner 
+- IS Data Curation and Policy with .... 
 - <b>DH CAPSTONE</b>
 - IS 497 Fieldwork: Women’s Center for Creative Work / Feminist Library on Wheels 
 - COM LIT 375 Teaching Apprentice Practicum for COM LIT 2CW: In Other Worlds: Enlightenment to 20th Century
@@ -48,4 +49,3 @@ title: Complete List of Courses
 - IS 289 Theory and Politics of Collecting with Prof. Shawn Vancour (WINTER 2018)
 - IS 438B Archival Description and Access with Prof. Kathy Carbone (WINTER 2019) 
 - M155 Angels, Demons, and End of World: Magic, Mysticism, and Apocalypse in Jewish Traditions (SPRING 2019) 
-- C170A Museum Studies (SPRING 2019) 

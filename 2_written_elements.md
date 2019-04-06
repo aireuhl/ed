@@ -14,7 +14,8 @@ author: Ariel Hahn
 ## 50 Word Statement
 
 ## Issue Paper
-<i><b>A Collective Effort : Healing, Trauma, and Precarity in Public Librarianship </b></i>
+<i><b>A Collective Effort : 
+<br>Healing, Trauma, and Precarity in Public Librarianship </b></i>
 
 This essay was adapted from a final course paper written for Professor David Shorter’s “Healing, Ritual, and Transformation” in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
 
@@ -23,14 +24,20 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 ---
 
 ## Major Paper 
-<i><b>Our Digital Records / Our Physical Deaths: Investigating Chechnya’s Anti-Gay Purge and the Future of Personal Archiving</b></i>
+<i><b>The Smartphone as a Personal Archive :
+<br>Investigating Chechnya’s Anti-Gay Purge 
+<br>and its Impact on Future Archival Protocols
+</b></i>
+
+In my first quarter at UCLA, I elected to take Professor Anne Gilliland’s Archives, Records, and Memory as my first non-core class in the program. Throughout the course, we continually examined the historical and global role of archives as both community memory repositories, as well as records of power. Inspired by our discussions on contemporary archival and record-related issues, I wrote the following paper as a way to connect my interest in technology, privacy, and queer rights with archival practice.  
 
 A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
 ---
 
 ## Core Course Paper  
-<i><b>Beyond Neutrality: Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</b></i>
+<i><b>Beyond Neutrality : 
+<br>Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</b></i>
 
 Written for my final core class in the program, Values and Communities, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field's professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
 

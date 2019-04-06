@@ -15,7 +15,8 @@ author: Ariel Hahn
 
 ## Issue Paper
 <i><b>A Collective Effort : 
-<br>Healing, Trauma, and Precarity in Public Librarianship </b></i>
+<br>Healing, Trauma, and Precarity 
+<br>in Public Librarianship </b></i>
 
 This essay was adapted from a final course paper written for Professor David Shorter’s “Healing, Ritual, and Transformation” in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
 
@@ -37,7 +38,8 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 
 ## Core Course Paper  
 <i><b>Beyond Neutrality : 
-<br>Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</b></i>
+<br>Questioning Professional Ethics, Neoliberalism, 
+<br>and Data Violence in LIS Praxis</b></i>
 
 Written for my final core class in the program, Values and Communities, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field's professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
 

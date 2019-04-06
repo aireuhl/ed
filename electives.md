@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visual Elements
+title: Elective Components and Multimedia Projects
 author: Ariel Hahn
 ---
 

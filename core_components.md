@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Written Elements
+title: Core Portfolio Components
 author: Ariel Hahn
 ---
 

@@ -18,7 +18,7 @@ author: Ariel Hahn
 <br>Healing, Trauma, and Precarity 
 <br>in Public Librarianship </b></i>
 
-This essay was adapted from a final course paper written for Professor David Shorter’s “Healing, Ritual, and Transformation” in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
+This essay was adapted from a final course paper written for Professor David Shorter’s <i>Healing, Ritual, and Transformation</i> in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
 
 A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
@@ -30,7 +30,7 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 <br>and its Impact on Future Archival Protocols
 </b></i>
 
-In my first quarter at UCLA, I elected to take Professor Anne Gilliland’s Archives, Records, and Memory as my first non-core class in the program. Throughout the course, we continually examined the historical and global role of archives as both community memory repositories, as well as records of power. Inspired by our discussions on contemporary archival and record-related issues, I wrote the following paper as a way to connect my interest in technology, privacy, and queer rights with archival practice.  
+In my first quarter at UCLA, I elected to take Professor Anne Gilliland’s <i>Archives, Records, and Memory</i> as my first non-core class in the program. Throughout the course, we continually examined the historical and global role of archives as both community memory repositories, as well as records of power. Inspired by our discussions on contemporary archival and record-related issues, I wrote the following paper as a way to connect my interest in technology, privacy, and queer rights with archival practice.  
 
 A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
@@ -41,7 +41,7 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 <br>Questioning Professional Ethics, Neoliberalism, 
 <br>and Data Violence in LIS Praxis</b></i>
 
-Written for my final core class in the program, Values and Communities, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field's professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
+Written for my final core class in the program, <i>Values and Communities</i> taught by Professor Ramesh Srinivasan, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field’s professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
 
 A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 

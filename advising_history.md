@@ -3,15 +3,6 @@ layout: page
 title: Advising History
 ---
 
-### [Susanna Allés Torrent](http://susannalles.github.io/) | Hyper philologist
-
-### [Terry Catapano](https://github.com/tcatapano) | Metadata ninja
-
-### [Alex Gil](http://www.elotroalex.com/) | Resident minimalist
-
-### [Johann Gillium](https://github.com/JohannGillium) | Search master
-
-
 ## FALL 2017 
 
 Upon starting year one in the program, I quickly met with my initial advisor, Professor Jonathan Furner, to discuss my broad interests in information studies. During this first quarter, I also met with Snowden Becker, Professor Anne Gilliland, Professor Shawn Vancour, and PhD student Gracen Brilmeyer. Conversations ranged from requests for assignment support to general questions about the program and what classes I should take to developing a new student group alongside two other first-year students. 
@@ -22,7 +13,7 @@ The following winter, I met again with Snowden Becker to discuss assignments for
 
 ## SPRING 2018 
 
-In my third quarter, I had brief meetings with Professor Michelle Caswell to discuss volunteer work for <i>Community-Based Archiving</i> and PhD student Joyce Gabiola to discuss assignments in <i>Values and Communities</i>. At the end of my first year, after realizing an interest in the digital humanities, I switched advisors and began meeting with Professor Miriam Posner. 
+In my third quarter, I had brief meetings with Professor Michelle Caswell to discuss volunteer work for <i>Community-Based Archiving</i> and PhD student Joyce Gabiola to discuss assignments in <i>Values and Communities</i>. At the end of my first year, after realizing an interest in the digital humanities, I switched advisors and began meeting with Professor Miriam Posner.  I also met with Professor Sarah T. Roberts to discuss my work in and final project for <Current Issues in Librarianship</i>
 
 ## SUMMER 2018 
 
@@ -33,3 +24,19 @@ During the beginning of the summer term, I met with Professor Miriam Posner to d
 At the end of the summer, I met again with Professor Miriam Posner to discuss my summer position at the UCLA Digital Library, where I primarily worked on metadata for the International Digital Ephemera Project as well as some web development for the Sinai Library Digitization Project. During this meeting, we also discussed my desire to apply for the Digital Humanities Graduate Certificate. Professor Posner was very encouraging and offered clarification about what requirements I would need to fulfill.
 
 In this quarter, I also met with PhD student Oraison Larmon to discuss some general questions I had about archival description practices at my community archives internship site, the Southern California Library. I later met with Professor Johanna Drucker to discuss assignments for her digital methods seminar and with Snowden Becker, twice, to check-in about my community archives internship. I also met with Professor Posner two additional times this quarter to discuss my coursework, portfolio, internship, and interest in digital libraries.
+
+## WINTER 2019
+
+During the winter term, I met with Professor Miriam Posner two times. At the beginning of the quarter, we discussed my class schedule, possible issue paper topics, and interest in taking a class outside of the department. In this first meeting, we also established an ideal portfolio timeline wherein I decided to submit half of my required elements for review by the middle of the quarter (Week 5). At that point, we met again to discuss my community archives internship site and technical goals for the DH capstone, as well as the status of my issue paper. 
+
+Despite being on sabbatical, I also met with Professor Michelle Caswell to discuss my community archives internship site after some unexpected issues arising. Around the same time, I met with PhD student Oraison Larmon to discuss my new internship site and possible goals for the rest of my participation in the program. 
+
+Towards the end of the quarter, I met with Professor Sarah T. Roberts to discuss an upcoming README event and ask for guidance in writing my issue paper. 
+
+## SPRING 2019 
+
+In the first week of spring term, I met with Professor Miriam Posner to discuss my portfolio status as well as ask questions about my DH capstone project. I also took advantage of various programs offered in the IS Lab by both Diana Ascher and Snowden Becker. 
+
+## ADDITIONAL ADVISING & FINAL THOUGHTS
+
+In addition to the thoughtful and individualized attention I continuously received through my direct advising with Professor Miriam Posner, I deeply benefited from numerous professional relationships during my time at UCLA. Over the course of this program, I engaged in informal advising with numerous professors, PhD students, members of my cohort, friends, and fellow TAs outside of the Department of Information Studies. 

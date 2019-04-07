@@ -13,7 +13,7 @@ author: Ariel Hahn
 
 ## 50 Word Statement
 
-Contemporary public librarianship is fraught with precarity. As more of the workforce is relegated to part-time and temporary positions, our field grows increasingly unstable and workers become more vulnerable to workplace trauma. As a collective issue, contending with these questions of precarity and labor-based trauma is best done by looking outside of the field and embracing an ethos of collective healing. 
+Contemporary public librarianship is fraught with precarity. As more of the workforce is relegated to part-time and temporary positions, our field grows increasingly unstable and workers become more vulnerable to workplace trauma. Since precarity-based trauma is a collective issue, contending with these questions is best done by looking outside of the field and embracing an ethos of collective healing.
 
 ---
 

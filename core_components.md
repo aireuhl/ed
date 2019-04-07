@@ -44,10 +44,9 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 <i><b>Beyond Neutrality : 
 <br>Questioning Professional Ethics, Neoliberalism, 
 <br>and Data Violence in LIS Praxis</b></i>
+[A full-text PDF of this statement can be viewed and downloaded here.](Beyond Neutrality_Hahn.pdf)
 
 Written for my final core class in the program, <i>Values and Communities</i> taught by Professor Ramesh Srinivasan, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field’s professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
-
-A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
 
 ---
 

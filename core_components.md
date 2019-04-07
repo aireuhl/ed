@@ -29,10 +29,9 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 ---
 
 ## Major Paper 
-<i><b>The Smartphone as a Personal Archive :
-<br>Investigating Chechnya’s Anti-Gay Purge 
-<br>and its Impact on Future Archival Protocols
-</b></i>
+<b>The Smartphone as a Personal Archive :
+<br>Investigating Chechnya’s Anti-Gay Purge and its Impact on Future Archival Protocols
+</b>
 
 In my first quarter at UCLA, I elected to take Professor Anne Gilliland’s <i>Archives, Records, and Memory</i> as my first non-core class in the program. Throughout the course, we continually examined the historical and global role of archives as both community memory repositories, as well as records of power. Inspired by our discussions on contemporary archival and record-related issues, I wrote the following paper as a way to connect my interest in technology, privacy, and queer rights with archival practice.  
 
@@ -42,7 +41,8 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 
 ## Core Course Paper  
 <i>Beyond Neutrality : Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</i>
-<br>[A full-text PDF of this statement can be viewed and downloaded here.](Beyond Neutrality_Hahn.pdf)
+
+[A full-text PDF of this statement can be viewed and downloaded here.](Beyond Neutrality_Hahn.pdf)
 
 Written for my final core class in the program, <i>Values and Communities</i> taught by Professor Ramesh Srinivasan, this essay explores whether or not LIS professionals are responsible for the harm caused by new technologies like surveillance and predictive policing. I advocate, like many scholars before me, that the language of neutrality found throughout our field’s professional organizations is problematic and engenders things like data violence through a lack of critical professional ethics.
 

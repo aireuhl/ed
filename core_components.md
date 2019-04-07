@@ -18,9 +18,10 @@ Contemporary public librarianship is fraught with precarity. As more of the work
 ---
 
 ## Issue Paper
-<i><b>A Collective Effort : 
-<br>Healing, Trauma, and Precarity 
-<br>in Public Librarianship </b></i>
+
+[A full-text PDF of this essay can be viewed and downloaded here.](Collective Effort_Hahn.pdf)
+
+<i>A Collective Effort : Healing, Trauma, and Precarity in Public Librarianship </i>
 
 This essay was adapted from a final course paper written for Professor David Shorter’s <i>Healing, Ritual, and Transformation</i> in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
 
@@ -30,10 +31,10 @@ A full-text PDF of the essay can be downloaded here. You can view the essay in b
 
 ## Major Paper 
 
-A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
+[A full-text PDF of this essay can be viewed and downloaded here.](Archival Protocols_Hahn.pdf)
 
-<b>The Smartphone as a Personal Archive :Investigating Chechnya’s Anti-Gay Purge and its Impact on Future Archival Protocols
-</b>
+<i>The Smartphone as a Personal Archive : Investigating Chechnya’s Anti-Gay Purge and its Impact on Future Archival Protocols
+</i>
 
 In my first quarter at UCLA, I elected to take Professor Anne Gilliland’s <i>Archives, Records, and Memory</i> as my first non-core class in the program. Throughout the course, we continually examined the historical and global role of archives as both community memory repositories, as well as records of power. Inspired by our discussions on contemporary archival and record-related issues, I wrote the following paper as a way to connect my interest in technology, privacy, and queer rights with archival practice.  
 
@@ -41,7 +42,7 @@ In my first quarter at UCLA, I elected to take Professor Anne Gilliland’s <i>A
 
 ## Core Course Paper  
 
-[A full-text PDF of this statement can be viewed and downloaded here.](Beyond Neutrality_Hahn.pdf)
+[A full-text PDF of this essay can be viewed and downloaded here.](Beyond Neutrality_Hahn.pdf)
 
 <i>Beyond Neutrality : Questioning Professional Ethics, Neoliberalism, and Data Violence in LIS Praxis</i>
 

@@ -25,8 +25,6 @@ Contemporary public librarianship is fraught with precarity. As more of the work
 
 This essay was adapted from a final course paper written for Professor David Shorter’s <i>Healing, Ritual, and Transformation</i> in the Department of World Arts and Cultures. The class took place in Winter 2019 and was a cross-cultural exploration of healing practices. Our coursework and discussions intended to destabilize preconceived assumptions about care outside of Western medicine, the scientific authorities that inform societal understandings of the body and health, the role of healers in a variety of culturally-specific contexts, and healing outside of object-oriented epistemologies.
 
-A full-text PDF of the essay can be downloaded here. You can view the essay in browser here.   
-
 ---
 
 ## Major Paper 

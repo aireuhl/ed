@@ -19,8 +19,8 @@ author: Ariel Hahn
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_4.png" alt="getty photogram step four"></center>
 
 <iframe src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-The above documentation demonstrates 
+<br>
+The above documentation portrays part of my process in creating a photogrammetric 3D object. For Professor Christopher Johanson's <i>Computing and Classics</i>, I elected to digitally reconstruct a Roman marble bust from AD 140-160. I captured over 150 images at the Getty Villa using my iPhone 7 Plus and then ingested them into PhotoScan. After the object was slowly constructed over six stages, it was imported alongside those of my fellow three classmates into [RomeLab](http://hvwc.etc.ucla.edu/) as an experimental monument. To see an additional monument that was part of this project, take a look at [lauren molina's "L object" visible here.](https://lcmolina.github.io/portfolio/Lobject.mp4)
 
 ---
                                                                                  
@@ -34,6 +34,7 @@ The above documentation demonstrates
 
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/imperial eyes.png" alt="imperial eyes cover image"></center>
 
+<br>
 [“Imperial Eyes”](https://www.aireuhl.github.io/i_e) is a digital humanities project that was conceived of and created during Professor Johanna Drucker’s <i>Digital Methods for Research and Scholarship</i>. The aim of the assignment was to scale a full-fledged digital humanities project using data that was either downloaded through an API or publicly accessible repository, scraped from the web, or gathered and modeled directly by the project creators. The following document is a final summary that details our approach, methods, and possible future plans for this experiment.
 
 "Imperial Eyes" was a co-creation between myself and Asa Wilder.

@@ -18,7 +18,7 @@ title: Complete List of Courses
 
 ## SPRING 2018
 - IS 212 Values and Communities with Prof. Ramesh Srinivasan 
-- IS 213 Current Issues in Librarianship: Libraries and their Social Role(s) with Prof. Sarah T. Roberts
+- IS 213 Current Issues in Librarianship : Libraries and their Social Role(s) with Prof. Sarah T. Roberts
 - IS 433 Community-Based Archiving with Prof. Michelle Caswell 
 - COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication
 
@@ -27,11 +27,11 @@ title: Complete List of Courses
 - IS 289 Digital Methods for Research and Scholarship with Prof. Johanna Drucker
 - IS 289 Sound Technologies and Society with Prof. Shawn Vancour
 - IS 498 Internship: Southern California Library
-- WL ARTS 375 Teaching Apprentice Practicum for WL ARTS 51: Aliens, Psychics, Ghosts
+- WL ARTS 375 Teaching Apprentice Practicum for WL ARTS 51: Aliens, Psychics, and Ghosts
 - WL ARTS 495 Teaching Assistant Seminar
 
 ## WINTER 2019
-- WL ARTS CM240 Healing, Ritual, Transformation with Prof. David Shorter
+- WL ARTS CM240 Healing, Ritual, and Transformation with Prof. David Shorter
 - IS 288 Research Apprenticeship Seminar with Prof. Christopher Kelty
 - IS 461 Descriptive Cataloging with Luiz Mendes
 - IS 497 Fieldwork: Women’s Center for Creative Work / Feminist Library on Wheels 

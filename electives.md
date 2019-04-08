@@ -28,7 +28,6 @@ The above documentation portrays part of my process in creating a photogrammetri
 ## The Tiber Project : Livy's river
 
 <iframe src="https://player.vimeo.com/video/329030875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/329030875">tiber_sometext</a> from <a href="https://vimeo.com/user83202092">lauren</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 A collaboration with lauren molina, the Tiber Project was also created for Professor Christopher Johanson's <i>Computing and Classics</i>. In this digital humanities seminar, we experimented with different ways to read Livy's <i>Ab Urbe Condita</i> through close reading, distant reading, geographical visualization, language processing toolkits, photogrammetry, and 3D modeling. For our final project, we elected to merge distance reading with close reading and a 3D modeled interpretation of the Tiber River to tell a deeper story about the role of this water in the life of early Romans. Since digital tools are imperfect, the project is, unfortunately, only visible through an exported .mp4 file. Though this surrogate captures the essence of our experiment, it fails to serve as a full representation of the narrative. 
 
@@ -37,6 +36,8 @@ Our approach to the project can be best summarized by the following text, writte
 "The history of Rome as recorded by Livy in <i>Ab Urbe Condita</i>, could not have been written without mentioning the Tiber and its island. The river Tiber acted as (and continues to be) a main artery for water bound traffic in Italy; the small land mass towards one of the Tiber’s southwesterly bends, nearest Rome, also makes significant contribution to the stories of the Roman empire in ways which beg for closer examination. By recording its regular floodings, making note of the island & river as fortress and boundaries, Livy placed little emphasis on the larger ways in which the Tiber influenced how Romans positioned themselves and their city. 
 
 Using digital tools like Recogito to discover instances of the Tiber’s mention, we have prioritized its existence in Livy’s Ab. SketchUp offers a place for our digital project to be visualised to offer a depth and meaning of the Tiber in relationship to this classics text."
+
+<iframe src="https://player.vimeo.com/video/329030901" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elective Components and Multimedia Projects
+title: Multimedia Projects and Elective Materials
 author: Ariel Hahn
 ---
 

@@ -13,14 +13,14 @@ author: Ariel Hahn
 ---
 
 ## Photogrammetric Art History : Bust of a Man Wearing a Military Clock
+
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_1.png" alt="getty photogram step one"></center>
 
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_4.png" alt="getty photogram step four"></center>
 
 <iframe src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-(Roman ~ AD 140-160 ~ Marble)
-
+The above documentation demonstrates 
 
 ---
                                                                                  
@@ -44,6 +44,7 @@ author: Ariel Hahn
 
 <iframe src="https://player.vimeo.com/video/261557394" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+<br>
 "How We Live Now" is the result of a quarter's long exploration into the infrastructure of the San Gorgonio Wind Farm, between Los Angeles and Palm Springs in the California desert. Created for Professor Miriam Posner's <i>Systems and Infrastructures</i> alongside mutliple research essays that attempted to tease apart the intricacies of a system with questionable ends, the above video looks at the rise of non-fossil fuel energy sources, questions of private vs. public space, and the role greenwashing plays in local energy consumption. 
 
 ---

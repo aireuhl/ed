@@ -38,7 +38,6 @@ title: Complete List of Courses
 - COM LIT 375 Teaching Apprentice Practicum for COM LIT 2AW: Survey of Literature: Antiquity to Middle Ages
 
 ## SPRING 2019
-- IS 462 Subject Cataloging and Classification with Luiz Mendes
 - IS 464 Metadata with Prof. Jonathan Furner 
 - IS Data Curation and Policy with .... 
 - <b>DH CAPSTONE</b>

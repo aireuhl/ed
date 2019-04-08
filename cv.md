@@ -4,16 +4,16 @@ title: CV
 ---
 
 ## Education
-<b>University of California, Los Angeles</b> | Los Angeles, CA
+<b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br>Masters Degree in Library and Information Science
 <br>Graduate Certificate in Digital Humanities
 <br>Expected June 2019
 
-<b>Oral History Summer School</b> | Hudson, NY 
+<b>Oral History Summer School</b> ~ Hudson, NY 
 <br>Oral History and Documentary Film Course
 <br>Summer 2013
 
-<b>Mount Holyoke College</b> | South Hadley, MA
+<b>Mount Holyoke College</b> ~ South Hadley, MA
 <br>Bachelors Degree in Film Studies, with Honors
 <br>May 2010
 
@@ -48,7 +48,7 @@ title: CV
 <br>Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
 <b>Printed Matter's Los Angeles Art Book Fair (LAABF)</b>
-<br><i>UCLA Collective : D|MA and Information Studies</i>
+<br><i>UCLA Collective : DMA and Information Studies</i>
 <br>Coordinating Committee Member & Participant ~ Los Angeles, CA ~ 2019 
 
 <b>README @ UCLA and LA Cryptoparty Present...</b>
@@ -89,7 +89,6 @@ title: CV
 ## Professional Memberships
 
 <b>Association for Recorded Sound Collections</b> 
-
 <b>Association of Moving Image Archivists</b>
 
 ## Honors & Awards

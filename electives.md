@@ -21,15 +21,18 @@ author: Ariel Hahn
 
 ---
 
-## Imperial Eyes : A DH Project 
+## Imperial Eyes : A Digital Humanities Project Narrative
 
 [A full-text PDF of our project summary can be viewed and downloaded here.](IE_Project Narrative_Hahn.pdf)
+
+<center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/imperial eyes.png" alt="imperial eyes cover image"></center>
 
 “Imperial Eyes” is a digital humanities project that was conceived of and created during Professor Johanna Drucker’s Digital Methods for Research and Scholarship. The aim of the assignment was to scale a full-fledged digital humanities project using data that was either downloaded through an API or publicly accessible repository, scraped from the web, or gathered and modeled directly by the project creators. The following document is a final summary that details our approach, methods, and possible future plans for this experiment.
 
 ---
 
 ## How We Live Now : A Digital Storytelling Experiment
+
 <iframe src="https://player.vimeo.com/video/261557394" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---

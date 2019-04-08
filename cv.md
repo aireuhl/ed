@@ -47,6 +47,10 @@ title: CV
 <br><i>Am I Already an Archive? : Sorting Through Digital Trash with README</i>
 <br>Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
+<b>Printed Matter's Los Angeles Art Book Fair (LAABF)</b>
+<br><i>UCLA Collective : D|MA and Information Studies</i>
+<br>Coordinating Committee Member & Participant ~ Los Angeles, CA ~ 2019 
+
 <b>README @ UCLA and LA Cryptoparty Present...</b>
 <br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i>
 <br>Event Organizer & Workshop Facilitator ~ Los Angeles, CA ~ 2019 
@@ -81,6 +85,12 @@ title: CV
 <br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
 <br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
 <br><b>Operations</b> ~ Quickbooks, grantwriting, event planning, project management.
+
+## Professional Memberships
+
+<b>Association for Recorded Sound Collections</b> 
+
+<b>Association of Moving Image Archivists</b>
 
 ## Honors & Awards
 <b>Research & Inquiry Conference</b> 

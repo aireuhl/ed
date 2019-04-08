@@ -106,7 +106,9 @@ title: Curriculum Vitae
 <b>Research</b> ~ Primary, secondary, and digital methods 
 <br><b>Writing</b> ~ Interviewing, writing, editing, and proofreading
 <br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Adobe Premiere, iMovie, Hindenburg, MTE. 
-<br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, some HTML/CSS, some Python, OpenRefine, SketchUp.
+<br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, intermediate HTML/CSS, some Python, OpenRefine, SketchUp.
+<br><b>Programs & Standards</b> ~ ArchivesSpace, EAD, MARC, ~~~~~~~~~~~~~~~
+<br><b>Languages</b> ~ intermediate Spanish, French. ~~~~~~~~~~~~~~~~~~~~~~
 <br><b>Operations</b> ~ Quickbooks, grantwriting, event planning, project management.
 
 ## Professional Memberships

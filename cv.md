@@ -23,8 +23,30 @@ title: Curriculum Vitae
 - Writing II: In Other Worlds: Enlightenment to 20th Century ~ Spring
 - Writing II: Survey of Literature: Antiquity to Middle Ages ~ Winter
 - Writing II: Aliens, Psychics, Ghosts ~ Fall
-<br><i>Teaching Assistant</i> ~ Academic Year 2017-2018
+
+<b>University of California, Los Angeles</b> ~ Los Angeles, CA
+<br><i>Teaching Assistant</i> ~ Academic Year 2017 to 2018
 - Introduction to Communication Studies ~ Fall, Winter, Spring
+
+<b>Mellon Foundation Community Archives Lab Intern</b> ~ Los Angeles, CA
+<br><i>Project Archivist & Library Intern</i> ~ Women's Center for Creative Work / Feminist Library on Wheels ~ Winter to Spring 2019
+<br><i>Project Archivist, Southern California Library</i> ~ Fall 2018
+
+<b>Various</b> ~ New York, NY & Los Angeles, CA
+<br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018
+
+<b>Free History Project</b> ~ New York, NY
+<br><i>Associate Producer</i> ~ October 2015 to March 2017
+
+<b>Capricious Publishing</b> ~ New York, NY
+<br><i>Managing Editor & Distribution Manager</i> ~ October 2014 to November 2015
+<br><i>Gallery & Publishing Assistant</i> ~ November 2013 to April 2014
+
+<b>National Public Radio</b> ~ Washington, DC & New York, NY
+<br><i>Production Assistant, Programming Department</i> ~ November 2013 to April 2014
+
+<b>Discovery Communications</b> ~ Washington, DC
+<br><i>Research Assistant, Curiosity.com</i> ~ January to October 2013
 
 ## Relevant Professional Experience
 <b>Archival Management and Preservation Coordination</b>

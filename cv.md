@@ -46,7 +46,7 @@ title: Curriculum Vitae
 <b>National Public Radio</b> ~ Washington, DC & New York, NY
 <br><i>Production Assistant, Programming Department</i> ~ October 2011 to June 2013
 
-<b>Discovery Communications</b> ~ <right>Washington, DC</right>
+<b>Discovery Communications</b> ~ Washington, DC
 <br><i>Research Assistant, Curiosity.com</i> ~ January to October 2011
 
 ## Relevant Professional Experience

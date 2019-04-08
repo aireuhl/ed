@@ -13,8 +13,14 @@ author: Ariel Hahn
 ---
 
 ## Grecian Bust
-<img src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" alt="bust">
-<img src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" alt="bust flat>
+
+<left><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_1.png" alt="getty photogram step one"></left>
+<right><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_2.png" alt="getty photogram step two"></right>
+<left><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_3.png" alt="getty photogram step three"></left>
+<right><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_4.png" alt="getty photogram step four"></right>
+<left><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_5.png" alt="getty photogram step five"></left>
+<right><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_6.png" alt="getty photogram step six"></right>
+
 ---
                                                                                  
 ## River Tiber

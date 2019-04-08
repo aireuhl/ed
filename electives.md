@@ -61,5 +61,6 @@ Using digital tools like Recogito to discover instances of the Tiber’s mention
 <br>
 "How We Live Now" is the result of a quarter's long exploration into the infrastructure of the San Gorgonio Wind Farm, between Los Angeles and Palm Springs in the California desert. Created for Professor Miriam Posner's <i>Systems and Infrastructures</i> alongside mutliple research essays that attempted to tease apart the intricacies of a system with questionable ends, the above video looks at the rise of non-fossil fuel energy sources, questions of private vs. public space, and the role greenwashing plays in local energy consumption. 
 
+
 ---
 

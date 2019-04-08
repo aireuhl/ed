@@ -19,18 +19,18 @@ title: Curriculum Vitae
 
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
-<br><i>Teaching Associate</i> ~ Academic Year 2017 to 2018   
+<br><i>Teaching Associate</i> ~ AY 2017 to 2018   
 - Writing II: In Other Worlds: Enlightenment to 20th Century ~ Spring
 - Writing II: Survey of Literature: Antiquity to Middle Ages ~ Winter
 - Writing II: Aliens, Psychics, Ghosts ~ Fall
 
 <b>UCLA Community Archives Lab</b> ~ Los Angeles, CA
-<br><i>Mellon Foundation Project Archivist & Library Intern</i> ~ Academic Year 2018 to 2019
+<br><i>Mellon Foundation Project Archivist & Library Intern</i> ~ AY 2018 to 2019
 - Women's Center for Creative Work / Feminist Library on Wheels ~ Winter to Spring 2019
-- Southern California Library</i> ~ Fall 2018
+- Southern California Library ~ Fall 2018
 
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
-<br><i>Teaching Assistant</i> ~ Academic Year 2017 to 2018
+<br><i>Teaching Assistant</i> ~ AY 2017 to 2018
 - Introduction to Communication Studies ~ Fall, Winter, Spring
 
 <b>Various</b> ~ New York, NY & Los Angeles, CA

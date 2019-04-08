@@ -19,7 +19,7 @@ title: Curriculum Vitae
 
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
-<br><i>Teaching Associate</i> ~ Academic Year 2017-2018   
+<br><i>Teaching Associate</i> ~ Academic Year 2017 to 2018   
 - Writing II: In Other Worlds: Enlightenment to 20th Century ~ Spring
 - Writing II: Survey of Literature: Antiquity to Middle Ages ~ Winter
 - Writing II: Aliens, Psychics, Ghosts ~ Fall

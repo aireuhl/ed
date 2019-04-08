@@ -89,7 +89,7 @@ title: CV
 ## Professional Memberships
 
 <b>Association for Recorded Sound Collections</b> 
-<b>Association of Moving Image Archivists</b>
+<br><b>Association of Moving Image Archivists</b>
 
 ## Honors & Awards
 <b>Research & Inquiry Conference</b> 

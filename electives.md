@@ -25,7 +25,7 @@ The above documentation portrays part of my process in creating a photogrammetri
 
 ---
                                                                                  
-## The Tiber Project : Livy's river
+## The Tiber Project : Modeling Livy's River
 
 <iframe src="https://player.vimeo.com/video/329030875" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

@@ -12,14 +12,13 @@ author: Ariel Hahn
 
 ---
 
-## Grecian Bust
+## Photogrammetric Art History : Bust of a Man Wearing a Military Clock (Roman ~ AD 140-160 ~ Marble)
 
-<left><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_1.png" alt="getty photogram step one"></left>
-<right><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_2.png" alt="getty photogram step two"></right>
-<left><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_3.png" alt="getty photogram step three"></left>
-<right><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_4.png" alt="getty photogram step four"></right>
-<left><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_5.png" alt="getty photogram step five"></left>
-<right><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_6.png" alt="getty photogram step six"></right>
+<center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_1.png" alt="getty photogram step one"></center>
+
+<center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_4.png" alt="getty photogram step four"></center>
+
+<iframe src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
                                                                                  
@@ -312,10 +311,6 @@ $ rake ed:publish
 
 ---
 
-## Publishing: A UNIX server
-
-Publishing and Ed edition can be done in one of two ways. One way is to host it on a server you rent, own or have access to. Most mortals pay a hosting provider to host their sites. I recommend [Reclaim Hosting](https://reclaimhosting.com/), which is run by scholars for scholars. If you are affiliated with a university, chances are that your institution provides you with a UNIX account and a bit of server space. Since Jekyll generates a full static site for you, that means you can park it there too. To do so you need to build the site first. If you have been keeping your eye on your project by using `jekyll serve`, chances are you have a current built site in your project folder labelled `_site`.
-
 If you don't already, you can build one easily by using the following Jekyll command:
 
 ~~~ bash
@@ -332,28 +327,7 @@ Using an FTP client like [Filezilla](https://filezilla-project.org/), or [SSH on
 
 Please refer to the [note below on base urls](#a-note-on-your-base-url) to make sure your new links work on your new site.
 
-## Publishing: GitHub pages
 
-The second option is to publish your site for free on GitHub Pages.
-Whether you decide to publish on GitHub pages or not, we recommend that you still use git and GitHub to version your edition and make the data available via another channel other than your webpage. This is one of the great advantages of using our system, increasing the chances of survival of your work and opening new audiences for it.
-
-If you do decide to use the GitHub pages option, please make sure to read the [note below on base urls](#a-note-on-your-base-url).
-
-To publish on GitHub pages, you must have a copy of the repository in GitHub. That means you also need an account there. Once you've created the repository that you will use, you must link your local repository to the one on GitHub. Notice that because you cloned the original source files from my repository, it will be linked to my repository (to which you don't have writing privileges) until you do this step. Instructions for changing the remote URL can be found [here](https://help.github.com/articles/changing-a-remote-s-url/).
-
-The usual way of doing it is to create a different git branch called `gh-pages` within your local repository for your site. This is a branch is published by GitHub by default. GitHub also gives you the option to select [any branch you want to publish](https://github.com/blog/2228-simpler-github-pages-publishing), including the master branch.
-
-In the following I use the gh-pages branch. To create and use that branch use the following command:
-
-~~~ bash
-$ git checkout -b gh-pages
-~~~
-
-Once you are using that branch, you are ready to publish your site. To do so use simply push the gh-pages branch to github:
-
-~~~ bash
-$ git push origin gh-pages
-~~~
 
 You can now access your site using an address that looks like `http://your-username.github.io/your-project-name`. The sample page for Ed, for example, is hosted at [minicomp.github.io/ed](http://minicomp.github.io/ed).
 
@@ -361,11 +335,6 @@ You can now access your site using an address that looks like `http://your-usern
 
 When you publish on a subfolder—automatic on GitHub pages—many of your links will break unless you indicate the name of your sub-folder in the `baseurl` value in your `_config.html` file. In addition, you need to make sure that your site-wide links (your links to your CSS files, for example) are preceded by the `{{ site.baseurl }}` tag. The base Ed install already uses this system, so you can simply replace the value `/ed` in your `baseurl` to `/your-project-slug`.
 
-If on the other hand you are running your site on a root folder, simply erase `/ed`, but do make sure to leave the single quotes:
-
-~~~ yaml
-baseurl: ''
-~~~
 
 ---
 

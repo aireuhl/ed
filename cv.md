@@ -44,10 +44,10 @@ title: Curriculum Vitae
 <br><i>Gallery & Publishing Assistant</i> ~ November 2013 to April 2014
 
 <b>National Public Radio</b> ~ Washington, DC & New York, NY
-<br><i>Production Assistant, Programming Department</i> ~ November 2013 to April 2014
+<br><i>Production Assistant, Programming Department</i> ~ October 2011 to June 2013
 
 <b>Discovery Communications</b> ~ Washington, DC
-<br><i>Research Assistant, Curiosity.com</i> ~ January to October 2013
+<br><i>Research Assistant, Curiosity.com</i> ~ January to October 2011
 
 ## Relevant Professional Experience
 <b>Archival Management and Preservation Coordination</b>

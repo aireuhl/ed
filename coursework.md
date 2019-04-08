@@ -8,7 +8,7 @@ title: Complete List of Courses
 - IS 211 Artifacts and Cultures with Prof. Johanna Drucker
 - IS 260 Description and Access with Prof. Jonathan Furner
 - IS 432 Archives, Records, Memory with Prof. Anne Gilliland
-- COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication 
+- COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication
 
 ## WINTER 2018
 - IS 270 Systems and Infrastructure with Prof. Miriam Posner 
@@ -39,8 +39,8 @@ title: Complete List of Courses
 
 ## SPRING 2019
 - IS 464 Metadata with Prof. Jonathan Furner 
-- IS Data Curation and Policy with .... 
-- <b>DH CAPSTONE</b>
+- IS 262B Data Curation and Policy with Prof. Jillian Wallis
+- DH 299 Graduate Capstone Seminar with Prof. Miriam Posner
 - IS 497 Fieldwork: Women’s Center for Creative Work / Feminist Library on Wheels 
 - COM LIT 375 Teaching Apprentice Practicum for COM LIT 2CW: In Other Worlds: Enlightenment to 20th Century
 

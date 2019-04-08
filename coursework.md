@@ -35,14 +35,14 @@ title: Complete List of Courses
 - IS 288 Research Apprenticeship Seminar with Prof. Christopher Kelty
 - IS 461 Descriptive Cataloging with Luiz Mendes
 - IS 497 Fieldwork : Women’s Center for Creative Work / Feminist Library on Wheels 
-- COM LIT 375 Teaching Apprentice Practicum for COM LIT 2AW : Survey of Literature: Antiquity to Middle Ages
+- COM LIT 375 Teaching Apprentice Practicum for COM LIT 2AW : Survey of Literature : Antiquity to Middle Ages
 
 ## SPRING 2019
 - IS 464 Metadata with Prof. Jonathan Furner 
 - IS 262B Data Curation and Policy with Prof. Jillian Wallis
 - DH 299 Graduate Capstone Seminar with Prof. Miriam Posner
 - IS 497 Fieldwork : Women’s Center for Creative Work / Feminist Library on Wheels 
-- COM LIT 375 Teaching Apprentice Practicum for COM LIT 2CW : In Other Worlds: Enlightenment to 20th Century
+- COM LIT 375 Teaching Apprentice Practicum for COM LIT 2CW : In Other Worlds : Enlightenment to 20th Century
 
 ## Additional Courses Audited
 - IS 289 Theory and Politics of Collecting with Prof. Shawn Vancour (W 2018)

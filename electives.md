@@ -15,17 +15,24 @@ author: Ariel Hahn
 ## Grecian Bust
 <img src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" alt="bust">
 <img src="https://www.dropbox.com/s/in4upuhgop3zr6m/model_capture.mov?dl=0" alt="bust flat>
-
+---
+                                                                                 
 ## River Tiber
 
+---
+
 ## Imperial Eyes : A DH Project 
+
 [A full-text PDF of our project summary can be viewed and downloaded here.](IE_Project Narrative_Hahn.pdf)
 
 “Imperial Eyes” is a digital humanities project that was conceived of and created during Professor Johanna Drucker’s Digital Methods for Research and Scholarship. The aim of the assignment was to scale a full-fledged digital humanities project using data that was either downloaded through an API or publicly accessible repository, scraped from the web, or gathered and modeled directly by the project creators. The following document is a final summary that details our approach, methods, and possible future plans for this experiment.
 
+---
+
 ## How We Live Now : A Digital Storytelling Experiment
 <iframe src="https://player.vimeo.com/video/261557394" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+---
 ## Jekyll
 
 Ed is a Jekyll theme. That means you will need some familiarity with Jekyll to take advantage of its full potential. While running a Jekyll site is a bit more involved than Wordpress and other similar tools, the payoff in the long term is worth the effort to learn it. If you are new to Jekyll, I recommend you take a look at ["How (and Why) to Generate a Static Website Using Jekyll"](http://chronicle.com/blogs/profhacker/jekyll1/60913) at ProfHacker, Amanda Visconti's excellent [Building a static website with Jekyll and GitHub Pages](http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages) on *The Programming Historian* and [Jekyll's own documentation](http://jekyllrb.com/) to start getting a sense of how it works.

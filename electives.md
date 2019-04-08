@@ -29,6 +29,8 @@ author: Ariel Hahn
 
 “Imperial Eyes” is a digital humanities project that was conceived of and created during Professor Johanna Drucker’s Digital Methods for Research and Scholarship. The aim of the assignment was to scale a full-fledged digital humanities project using data that was either downloaded through an API or publicly accessible repository, scraped from the web, or gathered and modeled directly by the project creators. The following document is a final summary that details our approach, methods, and possible future plans for this experiment.
 
+"Imperial Eyes" was a co-creation between myself and Asa Wilder.
+
 ---
 
 ## How We Live Now : A Digital Storytelling Experiment

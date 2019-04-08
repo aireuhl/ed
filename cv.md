@@ -24,8 +24,8 @@ title: Curriculum Vitae
 - Writing II: Survey of Literature: Antiquity to Middle Ages ~ Winter
 - Writing II: Aliens, Psychics, Ghosts ~ Fall
 
-<b>Mellon Foundation & UCLA Community Archives Lab Program</b> ~ Los Angeles, CA
-<br><i>Project Archivist & Library Intern</i> ~ Academic Year 2018 to 2019
+<b>UCLA Community Archives Lab</b> ~ Los Angeles, CA
+<br><i>Mellon Foundation Project Archivist & Library Intern</i> ~ Academic Year 2018 to 2019
 - Women's Center for Creative Work / Feminist Library on Wheels ~ Winter to Spring 2019
 - Southern California Library</i> ~ Fall 2018
 

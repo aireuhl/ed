@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Core Portfolio Components
+title: Primary Portfolio Components
 author: Ariel Hahn
 ---
 

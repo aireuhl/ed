@@ -11,7 +11,7 @@ title: Complete List of Courses
 - COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication
 
 ## WINTER 2018
-- IS 270 Systems and Infrastructure with Prof. Miriam Posner 
+- IS 270 Systems and Infrastructures with Prof. Miriam Posner 
 - IS 272 Human-Computer Interaction with Prof. Leah Lievrouw 
 - IS 480 Intro to Media Archiving and Preservation with Snowden Becker
 - COMM 375 Teaching Apprentice Practicum for COMM 10: Introduction to Communication

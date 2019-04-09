@@ -29,6 +29,9 @@ title: Curriculum Vitae
 - Women's Center for Creative Work / Feminist Library on Wheels ~ Winter to Spring 2019
 - Southern California Library ~ Fall 2018
 
+<b>UCLA Digital Library</b> ~ Los Angeles, CA
+<br><i>Graduate Metadata Assistant</i> ~ Summer 2018
+
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018
 - Introduction to Communication Studies ~ Fall, Winter, Spring
@@ -107,7 +110,7 @@ title: Curriculum Vitae
 <br><b>Writing</b> ~ Interviewing, writing, editing, and proofreading.
 <br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Premiere, iMovie, Hindenburg, MTE. 
 <br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, intermediate HTML/CSS, XML, Git, some Python, OpenRefine, PhotoScan, SketchUp, ArchivesSpace, CONTENTdm, Zotero, Protégé, Voyant, Recogito, Tableau, Topic Modeling Tool. 
-<br><b>Select Cataloging & Metadata Standards</b> ~ RDA, MARC21, Dublin Core.
+<br><b>Select Cataloging & Metadata Standards</b> ~ RDA, MARC21, LCSH, Dublin Core.
 <br><b>Teaching</b> ~ lesson planning, grading, writing instruction, mentorship, discussion facilitation and moderation. 
 <br><b>Languages</b> ~ intermediate Spanish, introductory French. 
 <br><b>Operations</b> ~ Quickbooks, MailChimp, grantwriting, event planning, workshop facilitation, budget management, workflow management, project management.

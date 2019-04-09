@@ -78,7 +78,7 @@ title: Curriculum Vitae
 <br>Coordinating Committee Member & Participant ~ Los Angeles, CA ~ 2019 
 
 <b>README @ UCLA and LA Cryptoparty Present...</b>
-<br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i>
+<br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i> with Cory Doctorow, Britt Paris, Dr. Sarah T. Roberts, and Saba Waheed
 <br>Event Organizer & Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
 <b>Processing Community Day</b>

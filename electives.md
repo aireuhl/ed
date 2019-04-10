@@ -4,6 +4,8 @@ title: Multimedia Projects and Elective Materials
 author: Ariel Hahn
 ---
 
+---
+
 ## Contents
 {:.no_toc}
 

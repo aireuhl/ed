@@ -3,6 +3,8 @@ layout: page
 title: Curriculum Vitae
 ---
 
+--- 
+
 ## Education
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br>Masters Degree in Library and Information Science

@@ -2,7 +2,6 @@
 layout: page
 title: Accessibility Statement
 ---
-
 ---
 
 Regarding accessibility, this digital portfolio employs numerous recommendations offered by the [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/WAI/fundamentals/components/). The site was intentionally designed to be largely text-based with limited media components. For all elements, content order is irrelevant. Users may engage with these materials in whatever order they wish to without missing out on context or detail. 

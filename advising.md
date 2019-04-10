@@ -3,6 +3,8 @@ layout: page
 title: Advising History
 ---
 
+---
+
 ## FALL 2017 
 
 Prior to starting classes at UCLA, I attended Snowden Becker's Media Archives Bootcamp. Though not a strict advising session, I was able to spend this comprehensive pre-program week with many of my new classmates, leading figures in the field throughout Los Angeles, and, of course, Snowden Becker. The bootcamp was incredibly informative and felt like an accelerating force for my graduate education. Upon officially beginning year one, I quickly met with my initial advisor, Professor Jonathan Furner, to discuss my broad interests in information studies. During this first quarter, I also met with Snowden Becker, Professor Anne Gilliland, Professor Shawn Vancour, and PhD student Gracen Brilmeyer. Conversations ranged from requests for assignment support to general questions about the program and what classes I should take to developing a new student group alongside two other first-year students. 

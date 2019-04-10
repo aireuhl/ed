@@ -49,12 +49,12 @@ Towards the end of the quarter, I met with Professor Sarah T. Roberts to discuss
 
 ## SPRING 2019 
 
-In the first week of spring term, I met with Professor Miriam Posner to discuss my portfolio status as well as ask questions about my DH capstone project. I also quickly took advantage of various programs offered in the IS Lab by both Diana Ascher and Snowden Becker. As the quarter continues, I imagine I will have additional meetings with Professor Posner about my capstone. I will also, most likely, meet with other faculty members and peers to discuss class assignments and personal writing projects. I also hope to participate in multiple on-campus workshops related to unfamiliar digital tools and job preparedness before leaving UCLA.  
+In the first week of spring term, I met with Professor Miriam Posner to discuss my portfolio status as well as ask questions about my DH capstone project. I also quickly took advantage of various programs offered in the IS Lab by both Diana Ascher and Snowden Becker. As the quarter continues, I imagine I will have additional meetings with Professor Posner about my capstone and with Professor Sarah T. Roberts about README as well as my immediate professional goals. I will also, most likely, meet with several other faculty members and peers to discuss class assignments, personal writing projects, and upcoming job applications before leaving UCLA.
 
 ---
 
 ## Additional Advising and Final Thoughts
 
-In addition to the thoughtful and individualized attention I continuously received through my direct advising with Professor Miriam Posner, I deeply benefited from numerous professional relationships during my time at UCLA. Over the course of this program, I engaged in informal advising with numerous professors, PhD students, members of my cohort, friends, and fellow TAs outside of the Department of Information Studies. My experience in this program was notably transformed through my engagement with Elisabeth Asher, lauren molina, Nataly Palma, Yuri Shimoda, Asa Wilder, and Karly Wildenhaus, among so many others! 
+In addition to the thoughtful and individualized attention I continuously received through my direct advising with Professor Miriam Posner, I deeply benefited from numerous professional relationships during my time at UCLA. Over the course of this program, I engaged in informal advising with numerous professors, PhD students, members of my cohort, friends, and fellow TAs outside of the Department of Information Studies. My experience in this program was notably transformed through my engagement with Elisabeth Asher, Caroline Jorgenson, lauren molina, Nataly Palma, Yuri Shimoda, Alex Solo, Karly Wildenhaus, and Asa Wilder, among so many others! 
 
 ---

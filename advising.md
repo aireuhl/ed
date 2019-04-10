@@ -49,7 +49,7 @@ Towards the end of the quarter, I met with Professor Sarah T. Roberts to discuss
 
 ## SPRING 2019 
 
-In the first week of spring term, I met with Professor Miriam Posner to discuss my portfolio status as well as ask questions about my DH capstone project. I also quickly took advantage of various programs offered in the IS Lab by both Diana Ascher and Snowden Becker. As the quarter continues, I imagine I will have additional meetings with Professor Posner about my capstone and with Professor Sarah T. Roberts about README as well as my immediate professional goals. I will also, most likely, meet with several other faculty members and peers to discuss class assignments, personal writing projects, and upcoming job applications before leaving UCLA.
+In the first week of spring term, I met with Professor Miriam Posner to discuss my portfolio status as well as ask questions about my DH capstone project. I also quickly took advantage of various programs offered in the IS Lab by both Diana Ascher and Snowden Becker. As the quarter continues, I imagine I will have additional meetings with Professor Posner about my capstone and with Professor Sarah T. Roberts about README as well as, with both, my immediate professional goals. I will also, most likely, meet with several other faculty members and peers to discuss class assignments, personal writing projects, and upcoming job applications before leaving UCLA.
 
 ---
 

@@ -3,6 +3,8 @@ layout: page
 title: Accessibility Statement
 ---
 
+---
+
 Regarding accessibility, this digital portfolio employs numerous recommendations offered by the [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/WAI/fundamentals/components/). The site was intentionally designed to be largely text-based with limited media components. For all elements, content order is irrelevant. Users may engage with these materials in whatever order they wish to without missing out on context or detail. 
 
 In constructing this site, I aimed to fulfill perceivable accommodations (where "information and user interface components must be presentable to users in ways they can perceive"), operable accomodations (where "user interface components and navigation must be operable"), understandable accomodations (where "information and the operation of user interface must be understandable"), and robust accomodations (where "content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies"). 

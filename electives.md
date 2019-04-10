@@ -48,7 +48,7 @@ Using digital tools like Recogito to discover instances of the Tiber’s mention
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/imperial eyes.png" alt="imperial eyes cover image"></center>
 
 <br>
-[“Imperial Eyes”](https://www.aireuhl.github.io/i_e) is a digital humanities project that was conceived of and created during Professor Johanna Drucker’s <i>Digital Methods for Research and Scholarship</i>. The aim of the assignment was to scale a full-fledged digital humanities project using data that was either downloaded through an API or publicly accessible repository, scraped from the web, or gathered and modeled directly by the project creators. The following document is a final summary that details our approach, methods, and possible future plans for this experiment.
+[“Imperial Eyes”](https://www.aireuhl.github.io/i_e) is a digital humanities project that was conceived of and created during Professor Johanna Drucker’s <i>Digital Methods for Research and Scholarship</i>. The aim of the assignment was to scale a full-fledged digital humanities project using data that was either downloaded through an API or publicly accessible repository, scraped from the web, or gathered and modeled directly by the project creators. The above document is a final summary that details our approach, methods, and possible future plans for this experiment.
 
 "Imperial Eyes" was a co-creation between myself and Asa Wilder.
 

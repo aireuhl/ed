@@ -20,9 +20,9 @@ title: Curriculum Vitae
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Associate</i> ~ AY 2018 to 2019   
-- Writing II: In Other Worlds: Enlightenment to 20th Century ~ Spring
-- Writing II: Survey of Literature: Antiquity to Middle Ages ~ Winter
-- Writing II: Aliens, Psychics, Ghosts ~ Fall
+- Writing II: In Other Worlds: Enlightenment to 20th Century with Professor Anjali Arondekar ~ Spring
+- Writing II: Survey of Literature: Antiquity to Middle Ages with Professor David MacFadyen ~ Winter
+- Writing II: Aliens, Psychics, Ghosts with Professor David Shorter ~ Fall
 
 <b>Mellon Foundation Fellow for the UCLA Community Archives Lab</b> ~ Los Angeles, CA
 <br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
@@ -34,7 +34,7 @@ title: Curriculum Vitae
 
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018
-- Introduction to Communication Studies ~ Fall, Winter, Spring
+- Introduction to Communication Studies with Michael Suman ~ Fall, Winter, Spring
 
 <b>Various</b> ~ New York, NY & Los Angeles, CA
 <br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018

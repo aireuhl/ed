@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Complete List of Courses
+---
 
 ---
 

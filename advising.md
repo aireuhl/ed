@@ -55,6 +55,6 @@ In the first week of spring term, I met with Professor Miriam Posner to discuss 
 
 ## Additional Advising and Final Thoughts
 
-In addition to the thoughtful and individualized attention I continuously received through my direct advising with Professor Miriam Posner, I deeply benefited from numerous professional relationships during my time at UCLA. Over the course of this program, I engaged in informal advising with numerous professors, PhD students, members of my cohort, friends, and fellow TAs outside of the Department of Information Studies. My experience in this program was notably transformed through my engagement with Elisabeth Asher, Caroline Jorgenson, lauren molina, Nataly Palma, Yuri Shimoda, Alex Solo, Karly Wildenhaus, and Asa Wilder, among so many others! 
+In addition to the thoughtful and individualized attention I continuously received through my direct advising with Professor Miriam Posner, I deeply benefited from numerous professional relationships during my time at UCLA. Over the course of this program, I engaged in informal advising with countless professors, PhD students, members of my cohort, friends, and fellow TAs outside of the Department of Information Studies. My experience in this program was notably transformed through my engagement with Elisabeth Asher, Caroline Jorgenson, lauren molina, Nataly Palma, Yuri Shimoda, Alex Solodkaya, Karly Wildenhaus, and Asa Wilder, among so many others! 
 
 ---

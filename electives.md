@@ -56,6 +56,8 @@ Using digital tools like Recogito to discover instances of the Tiber’s mention
 
 ## How We Live Now : A Digital Storytelling Experiment
 
+[A full-text PDF of the following video's script can be viewed and downloaded here.](Video Script_Hahn.pdf)
+
 <iframe src="https://player.vimeo.com/video/261557394" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br>

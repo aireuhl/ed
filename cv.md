@@ -22,21 +22,21 @@ title: Curriculum Vitae
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Associate</i> ~ AY 2018 to 2019   
-- Writing II: In Other Worlds: Enlightenment to 20th Century with Professor Anjali Arondekar ~ Spring
-- Writing II: Survey of Literature: Antiquity to Middle Ages with Professor David MacFadyen ~ Winter
+- Writing II: Enlightenment to 20th Century with Professor Anjali Arondekar ~ Spring
+- Writing II: Antiquity to Middle Ages with Professor David MacFadyen ~ Winter
 - Writing II: Aliens, Psychics, Ghosts with Professor David Shorter ~ Fall
 
-<b>Mellon Foundation Fellow for the UCLA Community Archives Lab</b> ~ Los Angeles, CA
+<b>Mellon Foundation Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
 <br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
-- Women's Center for Creative Work / Feminist Library on Wheels ~ Winter to Spring 2019
-- Southern California Library ~ Fall 2018
+- Women's Center for Creative Work / Feminist Library on Wheels ~ 2019
+- Southern California Library ~ 2018
 
 <b>UCLA Digital Library</b> ~ Los Angeles, CA
 <br><i>Graduate Metadata Assistant</i> ~ Summer 2018
 
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018
-- Introduction to Communication Studies with Michael Suman ~ Fall, Winter, Spring
+- Introduction to Communication Studies with Michael Suman ~ AY '17 to '18
 
 <b>Various</b> ~ New York, NY & Los Angeles, CA
 <br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018

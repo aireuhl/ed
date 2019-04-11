@@ -25,6 +25,8 @@ title: Curriculum Vitae
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Enlightenment to 20th Century with Professor Anjali Arondekar
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Antiquity to Middle Ages with Professor David MacFadyen
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Aliens, Psychics, Ghosts with Professor David Shorter
+<br><i>Teaching Assistant</i> ~ AY 2017 to 2018
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Communication Studies with Michael Suman
 
 <b>Mellon Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
 <br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
@@ -33,10 +35,6 @@ title: Curriculum Vitae
 
 <b>UCLA Digital Library</b> ~ Los Angeles, CA
 <br><i>Graduate Metadata Assistant</i> ~ July to September 2018
-
-<b>University of California, Los Angeles</b> ~ Los Angeles, CA
-<br><i>Teaching Assistant</i> ~ AY 2017 to 2018
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Communication Studies with Michael Suman
 
 <b>Various</b> ~ New York, NY & Los Angeles, CA
 <br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018

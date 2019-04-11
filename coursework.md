@@ -46,6 +46,6 @@ title: Complete List of Courses
 - COM LIT 375 Teaching Apprentice Practicum for COM LIT 2CW : In Other Worlds : Enlightenment to 20th Century
 
 ## Additional Courses Audited
-- IS 289 Theory & Politics of Collecting with Professor Shawn Vancour (Winter 2018)
-- IS 438B Archival Description & Access with Professor Kathy Carbone (Winter 2019) 
-- M155 Angels, Demons, & End of World : Magic, Mysticism, & Apocalypse in Jewish Traditions with Professor Catherine Bonesho (Spring 2019) 
+- IS 289 Theory & Politics of Collecting with Professor Shawn Vancour, Winter 2018
+- IS 438B Archival Description & Access with Professor Kathy Carbone, Winter 2019 
+- M155 Angels, Demons, & End of World : Magic, Mysticism, & Apocalypse in Jewish Traditions with Professor Catherine Bonesho, Spring 2019 

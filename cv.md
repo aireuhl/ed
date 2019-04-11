@@ -67,8 +67,9 @@ title: Curriculum Vitae
 - Built and designed Capricious’ website. Migrated content to a new CMS. Oversaw all technological needs and content goals.
 
 <b>Teaching and Training</b>
-- Lead discussions, write lesson plans, hold of office hours, strategize writing exercises, and grade for UCLA undergraduates.
+- Lead discussions, write lesson plans, hold office hours, strategize writing exercises, and grade for UCLA undergraduates.
 - Trained and supported numerous colleagues, interns, and clients on technical programs, operational systems, and general project knowledge at NPR, Capricious Publishing, Discovery, and as an independent producer and creative consultant.
+- Organized and facilitated multiple technology workshops for README @ UCLA.
 
 ## Screenings, Conferences, & Public Speaking
 <b>UCLA Arts Party @ Hammer Museum</b>

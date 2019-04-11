@@ -92,7 +92,7 @@ title: Curriculum Vitae
 <br>Poster Presenter & Zine Co-Creator ~ Los Angeles, CA ~ 2018  
 
 <b>Research & Inquiry Conference @ UCLA</b>
-<br><i>How Do You Know?: Self-Interogation & The Root(s) of Queerness</i>
+<br><i>How Do You Know?: Self-Interrogation & The Root(s) of Queerness</i>
 <br> Session Organizer & Panel Presenter ~ Los Angeles, CA ~ 2018
 
 <b>Two Thirty Gallery</b>
@@ -109,25 +109,19 @@ title: Curriculum Vitae
 
 ## Skills 
 <b>Research</b> ~ Primary, secondary, and digital methods. 
-
 <br><b>Writing</b> ~ Interviewing, writing, editing, and proofreading.
-
 <br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Premiere, iMovie, Hindenburg, MTE. 
-
 <br><b>Web Production & Further Technical Skills</b> ~ Squarespace, Wordpress, WIX, intermediate HTML/CSS, XML, Git, some Python, OpenRefine, PhotoScan, SketchUp, ArchivesSpace, CONTENTdm, Zotero, Protégé, Voyant, Recogito, Tableau, Topic Modeling Tool, JIRA, Confluence. 
-
 <br><b>Select Metadata Standards</b> ~ RDA, MARC21, LCSH, PBCore, Dublin Core.
-
 <br><b>Teaching</b> ~ lesson planning, writing instruction, mentorship, constructive feedback, discussion facilitation and moderation.
-
 <br><b>Languages</b> ~ intermediate Spanish, introductory French.
-
 <br><b>Operations</b> ~ Quickbooks, MailChimp, grantwriting, event planning, workshop facilitation, budget management, workflow management, project management.
 
-## Professional Memberships
 
+## Professional Memberships
 <b>Association for Recorded Sound Collections</b> 
 <br><b>Association of Moving Image Archivists</b>
+
 
 ## Honors & Awards
 <b>Research & Inquiry Conference</b> 
@@ -138,6 +132,7 @@ title: Curriculum Vitae
 
 <b>Five College Film Festival </b>
 <br>Best of Mount Holyoke Award ~ 2008 
+
 
 ## Volunteer Experience
 <b>Processing Community Day</b> 

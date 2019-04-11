@@ -22,21 +22,21 @@ title: Curriculum Vitae
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Associate</i> ~ AY 2018 to 2019   
-- Writing II: Enlightenment to 20th Century with Professor Anjali Arondekar ~ Spring
-- Writing II: Antiquity to Middle Ages with Professor David MacFadyen ~ Winter
-- Writing II: Aliens, Psychics, Ghosts with Professor David Shorter ~ Fall
+- Writing II: Enlightenment to 20th Century with Professor A. Arondekar ~ Spring
+- Writing II: Antiquity to Middle Ages with Professor D. MacFadyen ~ Winter
+- Writing II: Aliens, Psychics, Ghosts with Professor D. Shorter ~ Fall
 
 <b>Mellon Foundation Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
 <br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
-- Women's Center for Creative Work / Feminist Library on Wheels ~ 2019
-- Southern California Library ~ 2018
+- Women's Center for Creative Work / Feminist Library on Wheels ~ Winter & Spring
+- Southern California Library ~ Fall
 
 <b>UCLA Digital Library</b> ~ Los Angeles, CA
 <br><i>Graduate Metadata Assistant</i> ~ Summer 2018
 
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018
-- Introduction to Communication Studies with Michael Suman ~ AY '17 to '18
+- Introduction to Communication Studies with M. Suman ~ Academic Year 
 
 <b>Various</b> ~ New York, NY & Los Angeles, CA
 <br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018
@@ -118,11 +118,9 @@ title: Curriculum Vitae
 <br><b>Languages</b> ~ intermediate Spanish, introductory French.
 <br><b>Operations</b> ~ Quickbooks, MailChimp, grantwriting, event planning, workshop facilitation, budget management, workflow management, project management.
 
-
 ## Professional Memberships
 <b>Association for Recorded Sound Collections</b> 
 <br><b>Association of Moving Image Archivists</b>
-
 
 ## Honors & Awards
 <b>Research & Inquiry Conference</b> 
@@ -133,7 +131,6 @@ title: Curriculum Vitae
 
 <b>Five College Film Festival </b>
 <br>Best of Mount Holyoke Award ~ 2008 
-
 
 ## Volunteer Experience
 <b>Processing Community Day</b> 

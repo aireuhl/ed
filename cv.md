@@ -80,7 +80,7 @@ title: Curriculum Vitae
 <br>Coordinating Committee Member & Participant ~ Los Angeles, CA ~ 2019 
 
 <b>README @ UCLA and LA Cryptoparty Present...</b>
-<br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i> with Cory Doctorow, Britt Paris, Dr. Sarah T. Roberts, and Saba Waheed
+<br><i> After disruption : A two-part event exploring worker-centered futures and the rise/demise of platform systems</i> with Cory Doctorow, Dr. Britt Paris, Dr. Sarah T. Roberts, and Saba Waheed
 <br>Event Organizer & Workshop Facilitator ~ Los Angeles, CA ~ 2019 
 
 <b>Processing Community Day</b>
@@ -111,7 +111,7 @@ title: Curriculum Vitae
 <b>Research</b> ~ Primary, secondary, and digital methods. 
 <br><b>Writing</b> ~ Interviewing, writing, editing, and proofreading.
 <br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Premiere, iMovie, Hindenburg, MTE. 
-<br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, intermediate HTML/CSS, XML, Git, some Python, OpenRefine, PhotoScan, SketchUp, ArchivesSpace, CONTENTdm, Zotero, Protégé, Voyant, Recogito, Tableau, Topic Modeling Tool. 
+<br><b>Web Production & Further Technical Skills</b> ~ Squarespace, Wordpress, WIX, intermediate HTML/CSS, XML, Git, some Python, OpenRefine, PhotoScan, SketchUp, ArchivesSpace, CONTENTdm, Zotero, Protégé, Voyant, Recogito, Tableau, Topic Modeling Tool, JIRA, Confluence. 
 <br><b>Select Metadata Standards</b> ~ RDA, MARC21, LCSH, PBCore, Dublin Core.
 <br><b>Teaching</b> ~ lesson planning, writing instruction, mentorship, discussion facilitation and moderation. 
 <br><b>Languages</b> ~ intermediate Spanish, introductory French. 

@@ -113,9 +113,9 @@ title: Curriculum Vitae
 <br><b>Design & Media Production</b> ~ Adobe Photoshop, InDesign, Final Cut Pro, Premiere, iMovie, Hindenburg, MTE. 
 <br><b>Web Production & Further Technical Skills</b> ~ Squarespace/Wordpress/WIX, JIRA, intermediate HTML/CSS, XML, Git, some Python, OpenRefine, PhotoScan, SketchUp, ArchivesSpace, CONTENTdm, Zotero, Protégé, Voyant, Recogito, Tableau, Topic Modeling Tool. 
 <br><b>Select Metadata Standards</b> ~ RDA, MARC21, LCSH, PBCore, Dublin Core.
-<br><b>Teaching</b> ~ lesson planning, grading, writing instruction, mentorship, discussion facilitation and moderation. 
+<br><b>Teaching</b> ~ lesson planning, writing instruction, mentorship, discussion facilitation and moderation. 
 <br><b>Languages</b> ~ intermediate Spanish, introductory French. 
-<br><b>Operations</b> ~ Quickbooks, MailChimp, grantwriting, event planning, workshop facilitation, budget management, workflow management, project management.
+<br><b>Operations & Other</b> ~ Quickbooks, MailChimp, grantwriting, event planning, workshop facilitation, budget management, workflow management, project management.
 
 ## Professional Memberships
 

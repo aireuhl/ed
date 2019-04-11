@@ -22,7 +22,7 @@ title: Curriculum Vitae
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Associate</i> ~ AY 2018 to 2019   
-- Writing II: Enlightenment to 20th Century with Professor A. Arondekar ~ Spring
+- Writing II: Enlightenment to 20th Century with Professor Anjali Arondekar
 - Writing II: Antiquity to Middle Ages with Professor D. MacFadyen ~ Winter
 - Writing II: Aliens, Psychics, Ghosts with Professor D. Shorter ~ Fall
 

@@ -28,11 +28,11 @@ title: Curriculum Vitae
 
 <b>Mellon Foundation Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
 <br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
-- Women's Center for Creative Work / Feminist Library on Wheels ~ Winter & Spring
-- Southern California Library ~ Fall
+- Women's Center for Creative Work / Feminist Library on Wheels
+- Southern California Library
 
 <b>UCLA Digital Library</b> ~ Los Angeles, CA
-<br><i>Graduate Metadata Assistant</i> ~ Summer 2018
+<br><i>Graduate Metadata Assistant</i> ~ July to September 2018
 
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018

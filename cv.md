@@ -36,7 +36,7 @@ title: Curriculum Vitae
 
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018
-<br>&nbsp;&nbsp;&nbsp;Introduction to Communication Studies with Michael Suman
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ~ Introduction to Communication Studies with Michael Suman
 
 <b>Various</b> ~ New York, NY & Los Angeles, CA
 <br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018

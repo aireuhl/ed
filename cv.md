@@ -21,12 +21,12 @@ title: Curriculum Vitae
 
 ## Relevant Employment History
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
-<br><i>Teaching Associate</i> ~ AY 2018 to 2019   
+<br><i>Teaching Associate</i> ~ AY 2018 to 2019
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Enlightenment to 20th Century with Professor Anjali Arondekar
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Antiquity to Middle Ages with Professor David MacFadyen
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Aliens, Psychics, Ghosts with Professor David Shorter
 
-<b>Mellon Foundation Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
+<b>Mellon Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
 <br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Women's Center for Creative Work / Feminist Library on Wheels
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern California Library

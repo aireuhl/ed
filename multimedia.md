@@ -12,6 +12,10 @@ author: Ariel Hahn
 
 ---
 
+## Intellectual Statement
+
+---
+
 ## Bust of a Man Wearing a Military Clock : Photogrammetric Art History
 
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/getty bust_1.png" alt="getty photogram step one"></center>

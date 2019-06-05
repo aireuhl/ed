@@ -12,7 +12,7 @@ author: Ariel Hahn
 
 ---
 
-## Intellectual Statement
+## Intellectual Statement for Digital Humanities Certificate
 
 ---
 

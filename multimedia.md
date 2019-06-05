@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multimedia Projects and Elective Materials
+title: Multimedia Projects and Digital Humanities Materials
 author: Ariel Hahn
 ---
 

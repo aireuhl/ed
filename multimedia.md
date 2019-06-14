@@ -54,6 +54,14 @@ Using digital tools like Recogito to discover instances of the Tiber’s mention
 
 ---
 
+## soundsponge : A Digital Humanities Capstone Project
+
+<center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/soundsponge.png" alt="soundsponge front image"></center>
+
+digitally dip into the hydrophonic soundscape of intertidal zones at two southern california state beaches.
+
+---
+
 ## How We Live Now : A Digital Storytelling Experiment
 
 [A full-text PDF of the video's script can be viewed and downloaded here.](Video Script_Hahn.pdf)

@@ -28,8 +28,8 @@ title: Curriculum Vitae
 <br><i>Teaching Assistant</i> ~ AY 2017 to 2018
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Introduction to Communication Studies with Michael Suman
 
-<b>Mellon Fellow for UCLA Community Archives Lab</b> ~ Los Angeles, CA
-<br><i>Project Archivist & Library Intern</i> ~ AY 2018 to 2019
+<b>Andrew W. Mellon Foundation | UCLA Community Archives Lab</b> ~ Los Angeles, CA
+<br><i>Community Archivist and Librarian</i> ~ AY 2018 to 2019
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Women's Center for Creative Work / Feminist Library on Wheels
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Southern California Library
 

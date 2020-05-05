@@ -20,6 +20,12 @@ title: Curriculum Vitae
 <br>May 2010
 
 ## Relevant Employment History
+<b>Cal Poly Pomona</b> ~ Pomona, CA
+<br><i>Data Management Librarian</i> ~ March 2020 to Present
+
+<b>Various</b> ~ New York, NY & Los Angeles, CA
+<br><i>Independent Producer & Consultant</i> ~ November 2015 to March 2020
+
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br><i>Teaching Associate</i> ~ AY 2018 to 2019
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Writing II: Enlightenment to 20th Century with Professor Anjali Arondekar
@@ -35,9 +41,6 @@ title: Curriculum Vitae
 
 <b>UCLA Digital Library</b> ~ Los Angeles, CA
 <br><i>Graduate Metadata Assistant</i> ~ July to September 2018
-
-<b>Various</b> ~ New York, NY & Los Angeles, CA
-<br><i>Independent Producer & Consultant</i> ~ November 2015 to January 2018
 
 <b>Free History Project</b> ~ New York, NY
 <br><i>Associate Producer</i> ~ October 2015 to March 2017

@@ -9,7 +9,7 @@ title: Curriculum Vitae
 <b>University of California, Los Angeles</b> ~ Los Angeles, CA
 <br>Masters Degree in Library and Information Science
 <br>Graduate Certificate in Digital Humanities
-<br>Expected June 2019
+<br>June 2019
 
 <b>Oral History Summer School</b> ~ Hudson, NY 
 <br>Oral History and Documentary Film Course

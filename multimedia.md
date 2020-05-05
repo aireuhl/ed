@@ -58,7 +58,7 @@ Using digital tools like Recogito to discover instances of the Tiber’s mention
 
 <center><img src="https://raw.githubusercontent.com/aireuhl/portfolio/master/assets/soundsponge.png" alt="soundsponge front image"></center>
 
-digitally dip into the hydrophonic soundscape of intertidal zones at two southern california state beaches.
+With [soundsponge](https://lcmolina.github.io/soundsponge), you can digitally dip into the hydrophonic soundscape of intertidal zones at two southern california state beaches.
 
 ---
 
